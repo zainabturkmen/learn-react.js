@@ -1,6 +1,7 @@
 import React from "react";
+import { Hero } from "./components/index";
 function App() {
-  return <h1>Hello ReactJS</h1>;
+  return <Hero />;
 }
 
 export default App;
