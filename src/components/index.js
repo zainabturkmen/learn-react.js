@@ -7,5 +7,13 @@ import Testimonails from "./Testimonails";
 import Contact from "./Contact";
 import Sidebar from "./Sidebar";
 
-
-export { Navbar, Hero, About, Services, Projects, Testimonails, Contact };
+export {
+  Navbar,
+  Sidebar,
+  Hero,
+  About,
+  Services,
+  Projects,
+  Testimonails,
+  Contact,
+};
