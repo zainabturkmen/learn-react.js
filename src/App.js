@@ -1,5 +1,7 @@
 import React from "react";
 import {
+  Navbar,
+  Sidebar,
   Hero,
   About,
   Services,
@@ -11,6 +13,8 @@ import {
 function App() {
   return (
     <>
+      <Navbar />
+      <Sidebar/>
       <Hero />
       <About />
       <Services />
